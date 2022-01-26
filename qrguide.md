@@ -43,14 +43,16 @@
 | [Use Azure to host and run SAP workload scenarios](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started) | [Certified and Supported SAP HANA® Hardware](https://www.sap.com/dmc/exp/2014-09-02-hana-hardware/enEN/#/solutions?filters=v:deCertified;ve:24)|                                
 | [Running SAP Applications on the Microsoft Platform - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications) | [2015553 - SAP on Microsoft Azure: Support prerequisites](https://launchpad.support.sap.com/#/notes/2015553)
 ||[1928533 - SAP Applications on Microsoft Azure: Supported Products and Azure VM types](https://launchpad.support.sap.com/#/notes/1928533)
+| [Learn SAP on Azure for AZ-120 Certification](https://docs.microsoft.com/en-us/learn/browse/?terms=sap) |
 
 | Interface/Connectivity                   |
 | ----------------------------------------- |
-| ADF | 
-| Power Platform |
-| SSO |
-| ADF |
-| Logic Apps |
+| [ADF Table Connector](https://docs.microsoft.com/en-us/azure/data-factory/connector-sap-table?tabs=data-factory)| 
+| [ADF ECC Connector](https://docs.microsoft.com/en-us/azure/data-factory/connector-sap-ecc?tabs=data-factory)|
+| [ADF HANA Connector](https://docs.microsoft.com/en-us/azure/data-factory/connector-sap-hana?tabs=data-factory)|
+| [Power Platform and SAP](https://docs.microsoft.com/en-us/power-platform-release-plan/2021wave1/data-integration/sap-erp-connector-power-automate-power-apps) |
+| [SSO](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/sap-netweaver-tutorial) |
+| [Logic Apps and SAP](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-using-sap-connector) |
 
 | Glossary |
 | ----------------------------------------- |
