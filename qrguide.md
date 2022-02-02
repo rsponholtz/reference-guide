@@ -34,6 +34,7 @@
 | | [SAP on Azure WAF](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local) |
 | | [Grow/manage ANF volumes](https://github.com/ANFTechTeam/ANFCapacityManager) |
 | | [ANF Health Check](https://github.com/seanluce/ANFHealthCheck) |
+| | [Azure Resource Group Copy](https://github.com/Azure/RGCOPY) |
 | | Azure Inventory Checks for SAP (Upcoming) |
 | | Azure Deployment Checklist (Upcoming)
 | | Azure VM OS Analyzer for SAP (Upcoming)
